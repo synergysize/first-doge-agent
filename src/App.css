@@ -149,7 +149,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: url('/token-pattern.png') repeat;
+  background: url('../public/token-pattern.png') repeat;
   opacity: 0.1;
 }
 
